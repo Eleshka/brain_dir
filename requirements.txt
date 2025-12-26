@@ -1,12 +1,11 @@
---extra-index-url https://download.pytorch.org/whl/cpu
-streamlit>=1.28
-ultralytics>=8.0
-torch==2.3.1+cpu
-torchvision==0.18.1+cpu
-opencv-python-headless>=4.8
-numpy>=1.24
-Pillow>=10
-pandas>=2
-matplotlib>=3.7
-seaborn>=0.12
-requests>=2.31
+streamlit>=1.28.0
+ultralytics==8.3.241
+torch>=2.1.0
+torchvision>=0.16.0
+opencv-python-headless>=4.8.0
+numpy<2.0  # важно! ultralytics не поддерживает numpy 2.0
+Pillow>=10.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+requests>=2.31.0
