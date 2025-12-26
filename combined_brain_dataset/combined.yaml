@@ -1,0 +1,7 @@
+names:
+- negative
+- positive
+nc: 2
+path: /home/adminadmin/brain_dir/combined_brain_dataset
+train: images/train
+val: images/test

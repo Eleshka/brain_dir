@@ -1,0 +1,14 @@
+artifact_uri: /home/adminadmin/brain_dir/combined_brain_dataset/runs/mlflow/214358605845146683/662138d811d74ac1a71ef9917f9fba7e/artifacts
+end_time: 1766734554923
+entry_point_name: ''
+experiment_id: '214358605845146683'
+lifecycle_stage: active
+run_id: 662138d811d74ac1a71ef9917f9fba7e
+run_name: train_exp_union_2341234123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766734250681
+status: 3
+tags: []
+user_id: adminadmin
