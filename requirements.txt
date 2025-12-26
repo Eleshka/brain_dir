@@ -1,9 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 streamlit==1.28.0
-ultralytics==8.0.196  # более старая, но стабильная версия
-torch==2.1.0
-torchvision==0.16.0
+ultralytics==8.0.196
+torch==2.1.0+cpu
+torchvision==0.16.0+cpu
 opencv-python-headless==4.8.1.78
-numpy==1.24.3  # гарантированная совместимость
+numpy==1.24.3
 Pillow==10.1.0
 pandas==2.1.0
 matplotlib==3.8.0
